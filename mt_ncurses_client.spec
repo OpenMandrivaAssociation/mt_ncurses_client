@@ -1,6 +1,6 @@
 %define name mt_ncurses_client
 %define version 0.1.98
-%define release %mkrel 4
+%define release %mkrel 5
 
 Summary: A Maitretarot client base on ncurses
 Name: %{name}
